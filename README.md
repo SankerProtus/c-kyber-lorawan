@@ -107,33 +107,9 @@ The project evaluates:
 ```text
 c-kyber-lorawan/
 
-├── docs/
-│   ├── proposal/
-│   └── reports/
-
-├── simulation/
-│   └── ns3/
-
-├── firmware/
-│   ├── baseline_kyber/
-│   └── c_kyber/
-
-├── analysis/
-│   ├── notebooks/
-│   └── scripts/
-
-├── data/
-│   ├── raw/
-│   └── processed/
-
-├── results/
-│   ├── figures/
-│   ├── tables/
-│   └── logs/
-
-├── README.md
-├── LICENSE
-└── requirements.txt
+docs/
+└── proposal/
+    └── Quantum_Safe_IoT_Research_Proposal.pdf
 ```
 
 ---
